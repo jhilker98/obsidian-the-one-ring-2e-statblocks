@@ -4,7 +4,7 @@
 	"version": "0.1.0",
 	"minAppVersion": "0.12.0",
 	"description": "Render TOR 2e statblocks in Obsidian.",
-	"author": "Michael Hansen",
-	"authorUrl": "https://github.com/modality",
+	"author": "Jacob Hilker (adapted from Michael Hansen)",
+	"authorUrl": "https://github.com/jhilker98",
 	"isDesktopOnly": false
 }
